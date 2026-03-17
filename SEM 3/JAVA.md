@@ -1,4 +1,99 @@
 # 📘 Object Oriented Java Programming  
+
+## Unit 1 
+- Features of java
+- - Bytecode
+  - Buzz words
+- Variables
+- - types
+  - lifetime
+  - scope
+- Datatypes
+- - types
+  - range
+  - conversion
+  - - widening
+    - narrowing
+- Arrays
+- - Jagged arrays
+- Classes
+- Objects
+- - declaration, initialisation, instancialisation
+  - Object as parameter
+  - Object as return type
+  - this keyword
+- Methods
+- - Overloading
+- Constructors
+- - types
+  - overloading
+- static keyword
+- final keyword
+- Garbage collection
+## Unit 2
+- Inheritance
+- - extends keyword
+  - types
+  - super keyword
+- Polymorphism
+- - overloading
+  - overriding
+- DMD
+- - upcasting
+  - downcasting
+- final keyword
+- Abstract class
+- Strings
+- String buffer
+- Generics
+## Unit 3
+- Packages
+- - types
+- Member acccess
+- Interfaces
+- - implements keyword
+  - multiple inheritance
+- Exceptions
+- - types
+  - try catch
+  - finally
+  - throw
+  - throws
+  - User defined exceptions
+## Unit 4
+- Multithreading
+- - Thread life cycle
+  - Methods
+  - Priority
+  - Synchrnisation
+- io stream
+- - byte streams
+  - character streams
+  - system streams
+## Unit 5
+- Events
+- - Delegation model
+  - Event source
+  - Event object
+  - Event listener
+- Mouse handling
+- - MouseEvent class
+  - MouseListener interface
+  - MouseMotionListener interface
+- AWT
+- - Hierarchy 
+  - Components
+    - Button
+    - Label
+    - TextField and TextArea
+    - Choice
+    - Checkbox and CheckboxGroup
+    - List
+- Graphics
+- - paint()
+  - Liness, arcs, rectangles
+  - Polygons, rounded rectangles
+
 ## Important Topics & Repeated Questions (PYQ Analysis)
 
 
