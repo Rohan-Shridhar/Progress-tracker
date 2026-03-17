@@ -1,0 +1,87 @@
+## Stacks
+- Operations
+- - PUSH
+  - POP
+  - DISPLAY
+- Applications
+- Infix to postfix
+- Postfix evaluation
+- Recursion
+- - Trace the code
+  - Predict the output
+- Reverse a string
+- Balanced paranthesis
+## Queues
+- Operations
+- - enqueue
+  - dequeue
+- Circular queue
+- - enqueue
+  - dequeue
+- Double ended queue
+- - enqueueL
+  - enqueueR
+  - dequeueL
+  - dequeueR
+- Priority queue
+- - min pri que
+  - max pri que
+
+## Linked lists
+- Array vs LL
+- Adv and disadv of linked list
+- Dynamic memory allocation
+- SLL
+- - insertFront
+  - insertEnd
+  - insertPos
+  - deleteFront
+  - deleteEnd
+  - deletePos
+- DLL
+- - insertFront
+  - insertEnd
+  - insertPos
+  - deleteFront
+  - deleteEnd
+  - deletePos
+- CLL
+- - insertFront
+  - insertEnd
+  - insertPos
+  - deleteFront
+  - deleteEnd
+  - deletePos
+- Linked list functions
+- - search(value)
+  - delete(value)
+  - sort()
+  - merge()
+  - reverse()
+  - count()
+- Implement stack and queue using SLL
+- Polynomial addition
+- Representing sprase matrix
+
+## Trees
+- Terminologies
+- Binary tree types
+- Traversal
+- DFS BFS
+- Binary search tree
+- - Insertion
+  - Deletion
+  - Display
+- Graphs
+- - DFS
+  - BFS
+
+## Hashing
+- Terminologies
+- Hashing mechanism
+- Collision rosolution techniques
+- - Separate chaining
+  - Open addressing
+  - - Linear probing
+    - Quadratic probing
+    - Double hashing
