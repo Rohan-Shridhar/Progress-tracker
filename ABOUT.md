@@ -11,5 +11,5 @@ Principles of backend engineering like HTTP, Routing, Authentication and many ot
 > Learn principles of system design first, then choose a language to build
 #### ⓘ This repository is licensed under [MIT License](LICENSE)
 <p align=center>
-  <a href="Backend/introduction.md">Start Understanding --></a>
+  <a href="Backend/introduction.md">Start exploring --></a>
 </p>
